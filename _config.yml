@@ -2,3 +2,5 @@ collections:
   page:
     output: true
     permalink: /:path/
+    
+permalink: /mkg/:year/:month/:day/:title
