@@ -33,3 +33,11 @@ A list of known attacks and threats made against during the Bitcoin scaling "deb
 | 11 October 2017   | Segwit 2X                                 | Social Attack  | [Segwit Safety Alert](https://web.archive.org/web/20171029022533/https://bitcoin.org/en/)                                                                                                                                                                                                                                                                                                                          |
 | 20 November 2017  | Bitcoin.com                               | Social Attack  | [](https://www.reddit.com/r/btc/comments/7eabcz/the_bitcoincom_wallet_app_is_under_attack_by/)[The bitcoin.com wallet app is under attack by /r/bitcoin. Please help to counter it.](https://www.reddit.com/r/btc/comments/7eabcz/the_bitcoincom_wallet_app_is_under_attack_by/)                                                                                                                                   |
 | 06 December 2018  | Bitcoin.com, Bitmain, Kraken, Bitcoin ABC | Legal Action   | [UnitedCorp Launches Suit against Bitmain, Bitcoin.com, Roger Ver, Kraken Bitcoin Exchange and others Alleging Hijacking of the Bitcoin Cash Network](https://www.marketwatch.com/story/unitedcorp-files-suit-against-bitmain-roger-ver-kraken-and-others-over-alleged-manipulation-during-bitcoin-cash-hard-fork-2018-12-06)                                                                                                                                                                                                                                                                |
+
+## Citation
+
+In academic work, please cite this resource as:
+
+```
+Makgill, Deryk, “Known Cyber Attacks Against Scaling Bitcoin.” https://makgill.ch/bitcoin-scaling-attacks. Retrieved [access date].
+```
