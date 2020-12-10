@@ -19,3 +19,10 @@ title: Known Alleged Legal Threats and Attacks Against Scaling Bitcoin
 | 31 December 2019  | @karbonbased                       | Samson Mow        | ‘Gym Friend’ meme war: Troll trolled after trolling troll                                                                                                                                                                                                                                                                                                                                          |
 | 17 February 2020  | Roger Ver                          | Greg Maxwell      | [](https://www.reddit.com/r/btc/comments/f5lm9r/how_roger_ver_escaped_taxes/fhzg431/?utm_source=share&utm_medium=web2x)[How Roger Ver escaped taxes](https://www.reddit.com/r/btc/comments/f5lm9r/how_roger_ver_escaped_taxes/fhzg431/?utm_source=share&utm_medium=web2x)                                                                                                                          |
 
+## Citation
+
+In academic work, please cite this resource as:
+
+```
+Makgill, Deryk, “Known Alleged Legal Threats and Attacks Against Scaling Bitcoin.” https://makgill.ch/bitcoin-scaling-attacks. Retrieved [access date].
+```
