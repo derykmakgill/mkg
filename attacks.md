@@ -3,8 +3,6 @@ layout: page
 title: Known Alleged Cyber Attacks and Threats Against Scaling Bitcoin
 ---
 
-A list of known *alleged* attacks and threats made during the Bitcoin scaling "debates."
-
 | Date              | Victim                           | Description  | Source                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ----------------- | -------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 5 October 2014    | SatoshiDice, Counterparty        | Blacklisting | The Blacklist Debate: When is it OK to Meddle with Bitcoin’s Code?                                                                                                                                                                                                                                                                                                                                                 |
