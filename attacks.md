@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Known Alleged Threats and Attacks Made Against Bitcoin Scaling
+title: Known Alleged Cyber Attacks and Threats Against Scaling Bitcoin
 ---
 
 A list of known *alleged* attacks and threats made during the Bitcoin scaling "debates."
