@@ -1,9 +1,7 @@
 ---
-layout: default
-background: https://s.itl.cat/pngfile/s/259-2599350_bitcoin-background.png 
+layout: page
+title: Known Alleged Threats and Attacks Made Against Bitcoin Scaling
 ---
-
-# Known Alleged Threats and Attacks Made Against Bitcoin Scaling
 
 A list of known *alleged* attacks and threats made during the Bitcoin scaling "debates."
 
